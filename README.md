@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello I' m 枫书（ShiFengShuA）
+# 👋 Hello I' m 枫书
 
 来自中国的视频创作者，同时致力于曝光 ***戒网瘾学校*** 和 ***扭转机构*** 
 
