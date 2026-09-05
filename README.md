@@ -35,18 +35,18 @@
 
 | 项目名称 | 描述 | 链接 |
 |----------|------|------|
-| 情侣小站-CE | 基于 LikeGirl-v5.2.1 二次开发的社区版 | https://github.com/shifengshua/LikeGirl-CE |
+| 情侣小站-CE | 基于 [LikeGirl v5.2.1](https://gitee.com/kiCode111/likegirl-stable) 二次开发的社区版 | https://github.com/shifengshua/LikeGirl-CE |
 | 宵崎奏.Skill | 基于 ProjectSekai 游戏中的“宵崎奏”所制作的 Skill | https://github.com/shifengshua/yoisaki_kanade-skill |
 | 晓山瑞希.Skill | 基于 ProjectSekai 游戏中的“晓山瑞希”所制作的 Skill | https://github.com/shifengshua/akiyama_mizuki-skill |
 
 ---
 
-## 证书
+## 授课证书
 
 | 证书名称 | 课程授权机构 | 验证链接 |
 |----------|----------|----------|
 | 心理急救 | 约翰斯·霍普金斯大学 | https://coursera.org/verify/TGE2K0D4H703 |
-| MDD和BD | 美国心理学会 | https://coursera.org/verify/HKNJ0E20G42U |
+| 抑郁症和双相情感障碍 | 美国心理学会 | https://coursera.org/verify/HKNJ0E20G42U |
 | 心理化：从理论到临床干预 | 日内瓦大学 | https://coursera.org/verify/1FQCBT21FXZK |
 | 性别与性心理 | 美国心理学会 | https://coursera.org/verify/FU417NQM1QOT |
 
