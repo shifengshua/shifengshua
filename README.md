@@ -30,20 +30,8 @@
 
 ---
 
-## 授课证书
-
-| 证书名称 | 课程授权机构 | 验证链接 |
-|----------|----------|----------|
-| 心理急救 | 约翰斯·霍普金斯大学 | https://coursera.org/verify/TGE2K0D4H703 |
-| 抑郁症和双相情感障碍 | 美国心理学会 | https://coursera.org/verify/HKNJ0E20G42U |
-| 心理化：从理论到临床干预 | 日内瓦大学 | https://coursera.org/verify/1FQCBT21FXZK |
-| 性别与性心理 | 美国心理学会 | https://coursera.org/verify/FU417NQM1QOT |
-
----
-
 ## 关于
 
 | 项目 | 描述 | 链接 |
 |------|------|------|
-| 领英 | 领英主页 | https://www.linkedin.com/in/junjie-cheng-53a211375 |
 | 关于我 | 自我介绍？关于我的一些内容 | https://blog.sfsa.mrgzs.top/about/ |
