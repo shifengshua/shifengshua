@@ -15,9 +15,8 @@
 | 平台 | 描述 | 链接 |
 |------|------|------|
 | B站 | 更新作品的主要平台 | https://space.bilibili.com/1252971630 |
-| Twitter | 常用号 | https://x.com/shifengshua0717 |
-| Twitter | 站长的第一个X(Twitter)账号 | https://x.com/shifengshua |
-| Steam | 站长的Steam | https://steamcommunity.com/id/shifengshua |
+| Twitter | 枫书のTwitter | https://x.com/shifengshua0717 |
+| Steam | Steam主页 | https://steamcommunity.com/id/shifengshua |
 
 ---
 
@@ -25,19 +24,9 @@
 
 | 项目名称 | 描述 | 链接 |
 |----------|------|------|
-| 个人博客 | 站长的博客 | https://blog.sfsa.mrgzs.top |
-| SFSA博客 | 原个人博客，现已迁移，此站点正常运行 | https://blog.sfsa-gzs.top |
+| Web主页 | 个人主页 | https://sfsa.mrgzs.top |
+| 博客 | 个人博客 | https://blog.sfsa.mrgzs.top |
 | 情侣小站 | 社区版测试站 | https://love.sfsa.mrgzs.top/ |
-
----
-
-## 开源项目
-
-| 项目名称 | 描述 | 链接 |
-|----------|------|------|
-| 情侣小站-CE | 基于 [LikeGirl v5.2.1](https://gitee.com/kiCode111/likegirl-stable) 二次开发的社区版 | https://github.com/shifengshua/LikeGirl-CE |
-| 宵崎奏.Skill | 基于 ProjectSekai 游戏中的“宵崎奏”所制作的 Skill | https://github.com/shifengshua/yoisaki_kanade-skill |
-| 晓山瑞希.Skill | 基于 ProjectSekai 游戏中的“晓山瑞希”所制作的 Skill | https://github.com/shifengshua/akiyama_mizuki-skill |
 
 ---
 
