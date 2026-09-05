@@ -26,12 +26,4 @@
 |----------|------|------|
 | Web主页 | 个人主页 | https://sfsa.mrgzs.top |
 | 博客 | 个人博客 | https://blog.sfsa.mrgzs.top |
-| 情侣小站 | 社区版测试站 | https://love.sfsa.mrgzs.top/ |
-
----
-
-## 关于
-
-| 项目 | 描述 | 链接 |
-|------|------|------|
-| 关于我 | 自我介绍？关于我的一些内容 | https://blog.sfsa.mrgzs.top/about/ |
+| 情侣小站 | 社区版测试站 | https://love.sfsa.mrgzs.top |
