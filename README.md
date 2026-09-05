@@ -15,12 +15,9 @@
 | 平台 | 描述 | 链接 |
 |------|------|------|
 | B站 | 更新作品的主要平台 | https://space.bilibili.com/1252971630 |
-| 抖音 | 抖音主页 10wFans！ | https://www.douyin.com/user/MS4wLjABAAAARlmBwBfICgC46T5MjndeHtIAzUUMW0VAWuB1ZdrCSaD_490hXdsDpoI_EegKyycI |
-| YouTube | 站长的YouTube | https://www.youtube.com/@ShiFengShuA |
-| Steam | 站长的Steam | https://steamcommunity.com/id/shifengshua |
 | Twitter | 常用号 | https://x.com/shifengshua0717 |
 | Twitter | 站长的第一个X(Twitter)账号 | https://x.com/shifengshua |
-| 小红书 | 小红书主页 20wFans！ | https://www.xiaohongshu.com/user/profile/65621ee2000000000202b57b |
+| Steam | 站长的Steam | https://steamcommunity.com/id/shifengshua |
 
 ---
 
