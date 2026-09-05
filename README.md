@@ -31,7 +31,6 @@
 | 个人博客 | 站长的博客 | https://blog.sfsa.mrgzs.top |
 | SFSA博客 | 原个人博客，现已迁移，此站点正常运行 | https://blog.sfsa-gzs.top |
 | 情侣小站 | 社区版测试站 | https://love.sfsa.mrgzs.top/ |
-| 信息界面 | 服务端与访问端基础信息 | ./Web-Debug.php |
 
 ---
 
@@ -47,7 +46,7 @@
 
 ## 证书
 
-| 证书名称 | 颁发机构 | 验证链接 |
+| 证书名称 | 课程授权机构 | 验证链接 |
 |----------|----------|----------|
 | 心理急救 | 约翰斯·霍普金斯大学 | https://coursera.org/verify/TGE2K0D4H703 |
 | MDD和BD | 美国心理学会 | https://coursera.org/verify/HKNJ0E20G42U |
