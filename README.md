@@ -17,13 +17,3 @@
 | B站 | 更新作品的主要平台 | https://space.bilibili.com/1252971630 |
 | Twitter | 枫书のTwitter | https://x.com/shifengshua0717 |
 | Steam | Steam主页 | https://steamcommunity.com/id/shifengshua |
-
----
-
-## 网站项目
-
-| 项目名称 | 描述 | 链接 |
-|----------|------|------|
-| Web主页 | 个人主页 | https://sfsa.mrgzs.top |
-| 博客 | 个人博客 | https://blog.sfsa.mrgzs.top |
-| 情侣小站 | 社区版测试站 | https://love.sfsa.mrgzs.top |
